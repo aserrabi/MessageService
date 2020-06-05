@@ -1,0 +1,9 @@
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\bin\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.deps.json
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\bin\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.dll
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.csprojAssemblyReference.cache
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.AssemblyInfoInputs.cache
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.AssemblyInfo.cs
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\bin\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.pdb
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.csproj.CoreCompileInputs.cache
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.dll
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataStore\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.pdb

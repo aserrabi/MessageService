@@ -1,0 +1,12 @@
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\bin\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.deps.json
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\bin\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.dll
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.csprojAssemblyReference.cache
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.AssemblyInfoInputs.cache
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.AssemblyInfo.cs
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\bin\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.pdb
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.csproj.CoreCompileInputs.cache
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.dll
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.pdb
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\bin\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.dll
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\bin\Debug\netcoreapp3.1\IConstituent.MessageService.DataStore.pdb
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.DataService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.DataService.csproj.CopyComplete

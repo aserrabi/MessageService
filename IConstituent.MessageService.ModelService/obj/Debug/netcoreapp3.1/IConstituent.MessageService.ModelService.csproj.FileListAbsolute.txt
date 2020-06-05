@@ -1,0 +1,5 @@
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.ModelService\bin\Debug\netcoreapp3.1\IConstituent.MessageService.ModelService.deps.json
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.ModelService\bin\Debug\netcoreapp3.1\IConstituent.MessageService.ModelService.dll
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.ModelService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.ModelService.csprojAssemblyReference.cache
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.ModelService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.ModelService.AssemblyInfoInputs.cache
+C:\Users\ayso\source\repos\IConstituentMessageService\IConstituent.MessageService.ModelService\obj\Debug\netcoreapp3.1\IConstituent.MessageService.ModelService.AssemblyInfo.cs

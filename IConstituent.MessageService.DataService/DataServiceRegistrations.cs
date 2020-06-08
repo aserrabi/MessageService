@@ -1,4 +1,5 @@
 ﻿using Autofac;
+using IConstituent.MessageService.DataService.Services.SignalR;
 using Microsoft.Extensions.Configuration;
 
 namespace IConstituent.MessageService.DataService
@@ -19,6 +20,7 @@ namespace IConstituent.MessageService.DataService
 
         private void InstallServices(ContainerBuilder containerBuilder)
         {
+            containerBuilder.RegisterType<MessageHub>().As<IMessageHub>().SingleInstance();
             containerBuilder.RegisterType<MessageDataService>().As<IMessageDataService>().SingleInstance();
         }
     }

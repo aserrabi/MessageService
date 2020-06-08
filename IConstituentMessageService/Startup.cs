@@ -1,5 +1,6 @@
 using Autofac;
 using IConstituent.MessageService.DataService;
+using IConstituent.MessageService.DataService.Services.SignalR;
 using IConstituent.MessageService.DataStore;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -22,7 +23,22 @@ namespace IConstituentMessageService
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy", builder =>
+                {
+                    builder
+                    .WithOrigins("http://localhost:4200")
+                    .AllowAnyMethod()
+                    .AllowAnyHeader()
+                    .AllowCredentials();
+                });
+
+            });
+
             services.AddControllers();
+
+            services.AddSignalR();
 
             services.AddSwaggerGen(x =>
             {
@@ -56,11 +72,14 @@ namespace IConstituentMessageService
 
             app.UseRouting();
 
+            app.UseCors("CorsPolicy");
+
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
+                endpoints.MapHub<MessageHub>("/messageHub");
             });
         }
     }

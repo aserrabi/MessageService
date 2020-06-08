@@ -1,5 +1,6 @@
 ﻿using Autofac;
 using IConstituent.MessageService.DataService.Services.SignalR;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.Extensions.Configuration;
 
 namespace IConstituent.MessageService.DataService

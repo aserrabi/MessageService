@@ -1,0 +1,5 @@
+IConstituentMessageService/bin/*
+IConstituentMessageService/obj/*
+IConstituent.MessageService.DataService/bin/
+IConstituent.MessageService.DataService/obj/
+.vs/
